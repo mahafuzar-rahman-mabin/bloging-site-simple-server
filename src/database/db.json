@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4,
+    "title": "server development couses ",
+    "description": "Learn the basics of JavaScript and start your programming journey.",
+    "author": "Mahafuzar Rahman",
+    "category": "Programming",
+    "tags": ["JavaScript", "Beginner"],
+    "content": "JavaScript is a popular programming language used to build interactive websites.",
+    "isPublished": true
+  },
+  {
+    "id": 5,
+    "title": "server development  ",
+    "description": "Learn the basics of JavaScript and start your programming journey.",
+    "author": "Mahafuzar Rahman",
+    "category": "Programming",
+    "tags": ["JavaScript", "Beginner"],
+    "content": "JavaScript is a popular programming language used to build interactive websites.",
+    "isPublished": true
+  },
+  {
+    "id": 6,
+    "title": "What is an API?",
+    "description": "Understand how APIs connect different applications.",
+    "author": "Michael Brown",
+    "category": "Backend",
+    "tags": ["API", "REST API"],
+    "content": "An API allows different software applications to communicate with each other. Developers commonly use REST APIs to exchange data.",
+    "isPublished": true
+  },
+  {
+    "id": 7,
+    "title": "Introduction to MongoDB",
+    "description": "Learn about MongoDB and NoSQL databases.",
+    "author": "Emma Davis",
+    "category": "Database",
+    "tags": ["MongoDB", "Database"],
+    "content": "MongoDB is a NoSQL database that stores data in flexible document formats. It is popular in MERN stack development.",
+    "isPublished": true
+  }
+]
